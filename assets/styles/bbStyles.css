@@ -1,0 +1,11 @@
+:root {
+    --blush: #E9BEBE;
+    --gray: #7D7474;
+    --mint: #D1EFE4;
+    --slate: #BBBBBB;
+    --dust: #EEEEEE;
+}
+
+body {
+    background-color: var(--blush);
+}
