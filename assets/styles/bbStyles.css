@@ -8,4 +8,16 @@
 
 body {
     background-color: var(--blush);
+    margin: 0;
+}
+
+footer {
+    background-color: var(--gray);
+    color: var(--blush);
+    text-align: center;
+    font-size: .75em;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    padding: 2px;
 }
