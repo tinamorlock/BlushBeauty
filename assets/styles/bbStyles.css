@@ -11,13 +11,32 @@ body {
     margin: 0;
 }
 
+/* have to use !important here to override Bootstrap's background color */
+
+.bg-body-tertiary {
+    background-color: var(--blush) !important;
+}
+
+.BB--logo {
+    width: 40%;
+}
+
+.btn-outline-success {
+    color: var(--gray);
+    border-color: var(--gray);
+}
+
+.btn-outline-success:hover {
+    background-color: var(--mint);
+    color: var(--blush);
+    border-color: var(--gray);
+}
+
 footer {
     background-color: var(--gray);
     color: var(--blush);
-    text-align: center;
     font-size: .75em;
     bottom: 0;
-    position: fixed;
     width: 100%;
-    padding: 2px;
+    padding: 50px;
 }
