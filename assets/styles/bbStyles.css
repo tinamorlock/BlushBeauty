@@ -28,8 +28,16 @@ body {
 
 .btn-outline-success:hover {
     background-color: var(--mint);
-    color: var(--blush);
+    color: var(--gray);
     border-color: var(--gray);
+}
+
+.nav-link:hover {
+    background-color: var(--mint);
+}
+
+.dropdown-item:hover {
+    background-color: var(--mint);
 }
 
 footer {
