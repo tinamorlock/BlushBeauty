@@ -9,6 +9,7 @@ This project is for a custom website for a full-service beauty salon. Priority w
 * Reviews
 * Community
 * Book an Appointment
+* Blog
 ## Color Scheme
 * --blush: #E9BEBE;
 * --gray: #7D7474;
