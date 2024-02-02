@@ -10,7 +10,6 @@ html, body {
     background-color: var(--blush);
     padding: 0;
     margin: 0;
-    overflow: hidden;
 }
 
 * {
@@ -53,6 +52,9 @@ html, body {
 .BB--home--wedding-gallery--caption-header, .BB--home--wedding-gallery--caption-credit {
     color: var(--gray);
     background-color: var(--blush);
+}
+
+.carousel {
 }
 
 footer {
