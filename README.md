@@ -25,3 +25,6 @@ The following will be used for this project:
 * Custom JavaScript
 ## Current Status
 Design and development started on 01-30-2024. Under construction.
+## Screenshots
+### Home
+![img.png](img.png) ![img_1.png](img_1.png)

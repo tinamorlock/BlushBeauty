@@ -72,3 +72,18 @@ footer {
     width: 100%;
     padding: 50px;
 }
+
+.mint-bg {
+    background-color: rgba(209,239, 228, .5);
+}
+
+#moreReviews {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 3em;
+}
+
+.see-more a {
+    text-decoration: none;
+}
