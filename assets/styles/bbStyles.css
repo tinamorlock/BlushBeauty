@@ -49,6 +49,13 @@ html, body {
     background-color: var(--mint);
 }
 
+#BB--home-header {
+    background-color: var(--mint);
+    color: var(--gray);
+    text-align: center;
+    margin-top: 20px;
+}
+
 .BB--home--wedding-gallery--caption-header, .BB--home--wedding-gallery--caption-credit {
     color: var(--gray);
     background-color: var(--blush);
