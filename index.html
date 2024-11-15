@@ -16,6 +16,7 @@
     <link href="assets/styles/bbStyles.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+    <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
         <a href="index.html"><img class="BB--logo" src="assets/images/blush.jpg" alt="Blush Beauty Logo, text: Blush with a box outline."></a>
@@ -57,9 +58,17 @@
         </div>
     </div>
 </nav>
-    <div id="BB--home-header" class="text-center">
-        <h1>A splash of color lets your beauty shine</h1>
+    <!-- Header -->
+    <header>
+        <div id="BB--home-header" class="text-center">
+            <h1>A splash of color lets your beauty shine</h1>
+        </div>
+    </header>
+    <!-- container for booking form -->
+    <div class="booking-form">
+
     </div>
+    <!-- container for reviews -->
     <div class="container">
         <div class="row">
             <div class="col-sm">
@@ -76,6 +85,7 @@
     <div class="see-more">
         <a href="reviews.html"><button class="btn btn-outline-success" type="submit" id="moreReviews">see more reviews</button></a>
     </div>
+    <!-- Wedding photo gallery -->
     <div id="weddingCarousel" class="carousel slide">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#weddingCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -170,18 +180,20 @@
             <span class="visually-hidden">Next</span>
         </button>
     </div>
-
-
+    <!-- Footer -->
     <footer class="text-uppercase text-center">
         Copyright &copy; 2024 Blush Beauty — All rights reserved.
     </footer>
-
-<!-- Bootstrap scripts -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var myCarousel = new bootstrap.Carousel(document.getElementById('weddingCarousel'));
-    });
-</script>
+    <!-- Online Booking Widget for floating button -->
+    <script src="https://static.elfsight.com/platform/platform.js" async></script>
+    <div class="elfsight-app-285c5129-f8cd-4888-8113-6d7ec2f9fb1b" data-elfsight-app-lazy></div>
+    <!-- Bootstrap scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <!-- Script for homepage photo gallery -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var myCarousel = new bootstrap.Carousel(document.getElementById('weddingCarousel'));
+        });
+    </script>
 </body>
 </html>
