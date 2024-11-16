@@ -70,7 +70,8 @@ footer {
     font-size: .75em;
     bottom: 0;
     width: 100%;
-    padding: 50px;
+    padding: 10px;
+    position: fixed;
 }
 
 .mint-bg {
@@ -86,4 +87,39 @@ footer {
 
 .see-more a {
     text-decoration: none;
+}
+
+.gray-text {
+    color: var(--gray);
+}
+
+.home {
+    margin-top: 3em;
+    display: flex;
+    gap: 1em;
+}
+
+.home-left {
+    place-content: center;
+}
+
+.home-right img {
+    width: 50vw;
+}
+
+.home-left h1 {
+    font-size: 5vw;
+}
+
+.home-left h3 {
+    font-size: 3.5vw;
+}
+
+.home-left p {
+    font-size: 2.5vw;
+    font-weight: 300;
+}
+
+.dust-bg {
+    background-color: var(--dust);
 }

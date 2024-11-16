@@ -8,7 +8,6 @@ This project is for a custom website for a full-service beauty salon. Priority w
 * Portfolio
 * Reviews
 * Community
-* Book an Appointment
 * Blog
 ## Color Scheme
 * --blush: #E9BEBE;
@@ -24,7 +23,7 @@ The following will be used for this project:
 * Bootstrap JavaScript
 * Custom JavaScript
 ## Current Status
-Design and development started on 01-30-2024. Under construction.
+Design and development started on 01-30-2024. Currently working on the homepage.
 ## Screenshots
 ### Home
 ![img.png](img.png) ![img_1.png](img_1.png)
