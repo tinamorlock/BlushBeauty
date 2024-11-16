@@ -7,7 +7,7 @@ This project is for a custom website for a full-service beauty salon. Priority w
 * Services [Done]
 * Gallery [Done]
 * Portfolio
-* Reviews
+* Reviews [Done]
 * Community
 * Blog
 ## Color Scheme
@@ -33,6 +33,7 @@ and mobile screens:
 * Homepage
 * Service Menu
 * Gallery
+* Reviews
 ## Screenshots
 _Note: Repeated content on webpages not shown._
 ### Homepage (Desktop)
@@ -59,3 +60,7 @@ _Note: Repeated content on webpages not shown._
 ![img_17.png](img_17.png)
 ### Gallery (Mobile)
 ![img_18.png](img_18.png)
+### Reviews (Desktop)
+![img_19.png](img_19.png)
+### Reviews (Mobile)
+![img_20.png](img_20.png)
