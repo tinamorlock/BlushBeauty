@@ -64,3 +64,8 @@ _Note: Repeated content on webpages not shown._
 ![img_19.png](img_19.png)
 ### Reviews (Mobile)
 ![img_20.png](img_20.png)
+### Blog Index (Desktop)
+![img_21.png](img_21.png)
+### Blog Index (Mobile)
+![img_22.png](img_22.png)
+![img_23.png](img_23.png)

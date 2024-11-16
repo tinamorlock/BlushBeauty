@@ -55,6 +55,7 @@ html, body {
     color: var(--gray);
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .BB--home--wedding-gallery--caption-header, .BB--home--wedding-gallery--caption-credit {
@@ -129,4 +130,15 @@ footer {
 
 .service-left, .service-right {
     width: 50%;
+}
+
+.blog .card {
+    background-color: var(--blush);
+    color: var(--gray);
+}
+
+.card-img-top {
+    height: 50vh; /* Set a fixed height */
+    object-fit: cover; /* Ensures the image scales properly */
+    width: 100%; /* Ensures the image spans the card width */
 }
