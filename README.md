@@ -2,11 +2,9 @@
 This project is for a custom website for a full-service beauty salon. Priority will be given to having a classic-looking portfolio, along with scheduling capabilities for a large team of stylists.
 ## Website Pages
 * Home [Done]
-* About
 * Contact
 * Services [Done]
 * Gallery [Done]
-* Portfolio
 * Reviews [Done]
 * Community
 * Blog
