@@ -23,8 +23,13 @@ The following will be used for this project:
 * Bootstrap JavaScript
 * Custom JavaScript
 ## Current Status
-Design and development started on 01-30-2024. Desktop homepage is complete. Working on services page.
+Design and development started on 01-30-2024. 
+The following pages are completed for desktop 
+and mobile screens:
+* Homepage
+* Service Menu
 ## Screenshots
+_Note: Repeated content on webpages not shown._
 ### Homepage (Desktop)
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
@@ -39,3 +44,9 @@ Design and development started on 01-30-2024. Desktop homepage is complete. Work
 ### Booking Widget (Mobile)
 ![img_10.png](img_10.png)
 ![img_11.png](img_11.png)
+### Service Menu (Desktop)
+![img_12.png](img_12.png)
+![img_13.png](img_13.png)
+### Service Menu (Mobile)
+![img_14.png](img_14.png)
+![img_15.png](img_15.png)
