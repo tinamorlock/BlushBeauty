@@ -23,8 +23,7 @@ The following will be used for this project:
 * Bootstrap JavaScript
 * Custom JavaScript
 ## Current Status
-Design and development started on 01-30-2024. Desktop homepage is complete. Working on mobile 
-homepage.
+Design and development started on 01-30-2024. Desktop homepage is complete. Working on services page.
 ## Screenshots
 ### Homepage (Desktop)
 ![img_2.png](img_2.png)
