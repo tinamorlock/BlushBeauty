@@ -95,6 +95,10 @@ footer {
     color: var(--gray);
 }
 
+.blush-text {
+    color: var(--blush);
+}
+
 .home, .service-menu {
     margin-top: 3em;
     display: flex;
@@ -141,4 +145,70 @@ footer {
     height: 50vh; /* Set a fixed height */
     object-fit: cover; /* Ensures the image scales properly */
     width: 100%; /* Ensures the image spans the card width */
+}
+
+.blog-post {
+    display: inline-block;
+    text-align: center;
+}
+
+.blog-post h1 {
+    font-size: 5vw;
+    color: var(--gray);
+    text-align: center;
+}
+
+.blog-post img {
+    width: 65vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.byline img {
+    width: 4vw;
+    margin-right: 2vw;
+    border-radius: 10%;
+    border: none;
+    padding: 0;
+}
+
+.byline {
+    margin-bottom: 3vh;
+    text-align: center;
+    background-color: var(--mint);
+    width: 65vw;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.byline p {
+    color: var(--gray);
+    font-family: inherit;
+    font-size: 2.3vw;
+}
+
+.blog-content p {
+    color: var(--gray);
+    font-family: inherit;
+    font-size: 1.5vw;
+}
+.blog-content {
+    width: 65vw;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blog-post hr {
+    width: 65vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blog-content h1 {
+    font-size: 3vw;
+    text-align: left;
 }
