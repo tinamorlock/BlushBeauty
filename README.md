@@ -7,7 +7,9 @@ This project is for a custom website for a full-service beauty salon. Priority w
 * Gallery [Done]
 * Reviews [Done]
 * Community
-* Blog
+* Blog [Done]
+* Our Team
+* Community
 ## Color Scheme
 * --blush: #E9BEBE;
 * --gray: #7D7474;
@@ -32,6 +34,8 @@ and mobile screens:
 * Service Menu
 * Gallery
 * Reviews
+* Blog Index
+* Blog Post
 ## Screenshots
 _Note: Repeated content on webpages not shown._
 ### Homepage (Desktop)
