@@ -2,14 +2,13 @@
 This project is for a custom website for a full-service beauty salon. Priority will be given to having a classic-looking portfolio, along with scheduling capabilities for a large team of stylists.
 ## Website Pages
 * Home [Done]
-* Contact
+* Contact [Done]
 * Services [Done]
 * Gallery [Done]
 * Reviews [Done]
 * Community
 * Blog [Done]
-* Our Team
-* Community
+* Our Team [Done]
 ## Color Scheme
 * --blush: #E9BEBE;
 * --gray: #7D7474;
@@ -36,6 +35,8 @@ and mobile screens:
 * Reviews
 * Blog Index
 * Blog Post
+* Our Team
+* Contact
 ## Screenshots
 _Note: Repeated content on webpages not shown._
 ### Homepage (Desktop)
@@ -85,3 +86,7 @@ _Note: Repeated content on webpages not shown._
 ### Team (Mobile)
 ![img_32.png](img_32.png)
 ![img_33.png](img_33.png)
+### Contact (Desktop)
+![img_34.png](img_34.png)
+### Contact (Mobile)
+![img_35.png](img_35.png)

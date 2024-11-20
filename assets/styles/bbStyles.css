@@ -259,3 +259,27 @@ footer {
     margin-right: 1.5em;
     font-style: italic;
 }
+
+.mb-3 {
+    width: 60%;
+    margin: auto;
+    color: var(--gray);
+}
+
+/* Contact Page */
+
+.mb-3 input::placeholder {
+    color: var(--gray);
+}
+
+.mb-3 input:focus, .mb-3 textarea:focus {
+    color: var(--gray);
+    background-color: var(--mint);
+    border: none;
+}
+
+.contact .see-more {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
