@@ -147,6 +147,22 @@ footer {
     width: 100%; /* Ensures the image spans the card width */
 }
 
+.team-img {
+    width: 35vw;
+}
+
+.team-card {
+    width: 35vw;
+    margin: auto;
+    text-align: center;
+    color: var(--gray);
+    background-color: var(--mint);
+}
+
+.row {
+    margin-bottom: 1.5em;
+}
+
 .blog-post {
     display: inline-block;
     text-align: center;
@@ -211,4 +227,35 @@ footer {
 .blog-content h1 {
     font-size: 3vw;
     text-align: left;
+}
+
+/* Responsive media queries */
+@media (min-width: 601px) {
+    .team-mbl {
+        display: none;
+    }
+}
+@media (max-width: 600px) {
+    .team {
+        display: none;
+    }
+}
+
+.team-mbl {
+    color: var(--gray);
+    margin-left: 1.5em;
+}
+
+.team-mbl h2 {
+    background-color: var(--slate);
+    margin-right: 1.5em;
+    text-align: center;
+    box-shadow: .25px .25px .25px .25px var(--dust);
+    border-radius: 3px;
+    color: var(--dust);
+}
+
+.team-mbl p {
+    margin-right: 1.5em;
+    font-style: italic;
 }
