@@ -25,17 +25,7 @@ The following will be used for this project:
 * Visual Studio Code
 * WebStorm
 ## Current Status
-Design and development started on 01-30-2024. 
-The following pages are completed for desktop 
-and mobile screens:
-* Homepage
-* Service Menu
-* Gallery
-* Reviews
-* Blog Index
-* Blog Post
-* Our Team
-* Contact
+Design and development started on 01-30-2024. Completed on 11-20-2024.
 ## Screenshots
 _Note: Repeated content on webpages not shown._
 ### Homepage (Desktop)
