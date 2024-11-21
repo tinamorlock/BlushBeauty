@@ -6,7 +6,6 @@ This project is for a custom website for a full-service beauty salon. Priority w
 * Services [Done]
 * Gallery [Done]
 * Reviews [Done]
-* Community
 * Blog [Done]
 * Our Team [Done]
 ## Color Scheme
